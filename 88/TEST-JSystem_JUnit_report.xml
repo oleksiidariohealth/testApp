@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><testsuite errors="15" failures="0" hostName="Mac-1671640099987.local" name="JSystem Reporter" tests="8" time="10.963" timeStamp="Wed Dec 21 16:40:17 UTC 2022"><testcase classname="MSK_APP.General" name="StartApp" time="6.207"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><testsuite errors="15" failures="0" hostName="Mac-1671650030758.local" name="JSystem Reporter" tests="8" time="6.32" timeStamp="Wed Dec 21 19:28:33 UTC 2022"><testcase classname="MSK_APP.General" name="StartApp" time="3.546"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.General.StartApp(General.java:57)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -71,7 +71,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Click_country_picker" time="0.093"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Click_country_picker" time="0.065"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.Test.Phone_verification.after(Phone_verification.java:88)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -141,7 +141,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Select_country" time="0.071"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Select_country" time="0.057"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.Test.Phone_verification.after(Phone_verification.java:88)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -211,7 +211,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="click_select_region" time="0.073"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="click_select_region" time="0.047"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.Test.Phone_verification.after(Phone_verification.java:88)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -281,7 +281,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Enter_phone_number" time="0.061"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Enter_phone_number" time="0.06"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.Test.Phone_verification.after(Phone_verification.java:88)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -351,7 +351,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="click_Get_code_button" time="0.088"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+</error></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="click_Get_code_button" time="0.061"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.Test.Phone_verification.after(Phone_verification.java:88)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -421,7 +421,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</error></testcase><testcase classname="MSK_APP.Test.VarificationCode" name="Enter_code" time="0.183"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+</error></testcase><testcase classname="MSK_APP.Test.VarificationCode" name="Enter_code" time="0.041"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.Test.VarificationCode.after(VarificationCode.java:30)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -491,7 +491,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</error></testcase><testcase classname="MSK_APP.Test.VarificationCode" name="Home_page" time="0.077"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
+</error></testcase><testcase classname="MSK_APP.Test.VarificationCode" name="Home_page" time="0.045"><error type="class java.lang.NullPointerException">java.lang.NullPointerException
 	at MSK_APP.Test.VarificationCode.after(VarificationCode.java:30)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
