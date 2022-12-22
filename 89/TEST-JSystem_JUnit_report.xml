@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><testsuite errors="0" failures="4" hostName="Mac-1671703017083.local" name="JSystem Reporter" tests="8" time="349.914" timeStamp="Thu Dec 22 10:04:42 UTC 2022"><testcase classname="MSK_APP.General" name="StartApp" time="117.916"/><testcase classname="MSK_APP.Test.Phone_verification" name="Click_country_picker" time="44.178"/><testcase classname="MSK_APP.Test.Phone_verification" name="Select_country" time="7.816"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><testsuite errors="0" failures="4" hostName="Mac-1671705411777.local" name="JSystem Reporter" tests="8" time="310.129" timeStamp="Thu Dec 22 10:44:35 UTC 2022"><testcase classname="MSK_APP.General" name="StartApp" time="97.355"/><testcase classname="MSK_APP.Test.Phone_verification" name="Click_country_picker" time="49.958"/><testcase classname="MSK_APP.Test.Phone_verification" name="Select_country" time="5.296"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
 	at junit.framework.JSystemJUnit4ClassRunner.jsystemEndTest(JSystemJUnit4ClassRunner.java:212)
 	at junit.framework.JSystemJUnit4ClassRunner.access$100(JSystemJUnit4ClassRunner.java:31)
 	at junit.framework.JSystemJUnit4ClassRunner$TestListenerAdapter.testFinished(JSystemJUnit4ClassRunner.java:165)
@@ -66,7 +66,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</failure></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="click_select_region" time="3.546"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
+</failure></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="click_select_region" time="2.496"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
 	at junit.framework.JSystemJUnit4ClassRunner.jsystemEndTest(JSystemJUnit4ClassRunner.java:212)
 	at junit.framework.JSystemJUnit4ClassRunner.access$100(JSystemJUnit4ClassRunner.java:31)
 	at junit.framework.JSystemJUnit4ClassRunner$TestListenerAdapter.testFinished(JSystemJUnit4ClassRunner.java:165)
@@ -134,7 +134,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</failure></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Enter_phone_number" time="36.641"/><testcase classname="MSK_APP.Test.Phone_verification" name="click_Get_code_button" time="4.692"/><testcase classname="MSK_APP.Test.VarificationCode" name="Enter_code" time="64.961"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
+</failure></testcase><testcase classname="MSK_APP.Test.Phone_verification" name="Enter_phone_number" time="16.07"/><testcase classname="MSK_APP.Test.Phone_verification" name="click_Get_code_button" time="4.457"/><testcase classname="MSK_APP.Test.VarificationCode" name="Enter_code" time="62.984"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
 	at junit.framework.JSystemJUnit4ClassRunner.jsystemEndTest(JSystemJUnit4ClassRunner.java:212)
 	at junit.framework.JSystemJUnit4ClassRunner.access$100(JSystemJUnit4ClassRunner.java:31)
 	at junit.framework.JSystemJUnit4ClassRunner$TestListenerAdapter.testFinished(JSystemJUnit4ClassRunner.java:165)
@@ -202,7 +202,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</failure></testcase><testcase classname="MSK_APP.Test.VarificationCode" name="Home_page" time="62.35"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
+</failure></testcase><testcase classname="MSK_APP.Test.VarificationCode" name="Home_page" time="61.767"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
 	at junit.framework.JSystemJUnit4ClassRunner.jsystemEndTest(JSystemJUnit4ClassRunner.java:212)
 	at junit.framework.JSystemJUnit4ClassRunner.access$100(JSystemJUnit4ClassRunner.java:31)
 	at junit.framework.JSystemJUnit4ClassRunner$TestListenerAdapter.testFinished(JSystemJUnit4ClassRunner.java:165)
